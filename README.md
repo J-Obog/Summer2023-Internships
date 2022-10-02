@@ -42,8 +42,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Name                                                                                                                                                                         | Location                             | Notes                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------- |
 | [Akuna Capital](https://akunacapital.com/careers) | Chicago, IL; Austin, TX; Boston, MA | Quant Trading, SWE (sponsorship available) |
-| [Ians job](https://ianthe.dev/) 
-| [MadeUp Inc.](https://www.linkedin.com/) 
+| [Ians job](https://ianthe.dev/)  
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
