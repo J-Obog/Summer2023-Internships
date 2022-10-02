@@ -46,6 +46,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Ians job2](https://ianthe.dev/)  
 | [Ians job56](https://ianthe.dev/)
 | [Ians job73](https://ianthe.dev/)  
+| [Ians job80](https://ianthe.dev/)  
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2023-Internships#the-list-)
