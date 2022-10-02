@@ -45,7 +45,6 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Ians job](https://ianthe.dev/)  
 | [Ians job2](https://ianthe.dev/)  
 | [Ians job56](https://ianthe.dev/)
-| [Ians job73](https://ianthe.dev/)  
 | [Ians job80](https://ianthe.dev/)  
 | [Ians job101](https://ianthe.dev/)  
 | [Ians job104](https://ianthe.dev/) 
